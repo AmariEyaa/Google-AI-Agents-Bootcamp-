@@ -290,18 +290,18 @@ Deployed a fully observable, evaluated, and scalable agent to Google Cloud with 
 *Earned official Kaggle badge for course completion*
 
 ### 📚 Completed Resources
-- ✅ **5 Technical Whitepapers** - In-depth coverage of agent architectures
-- ✅ **10 Hands-on Codelabs** - Practical implementation experience
-- ✅ **5 NotebookLM Podcast Episodes** - Conversational learning format
-- ✅ **5 Live Livestream Sessions** - Direct engagement with Google experts
+ ✅ **5 Technical Whitepapers** - In-depth coverage of agent architectures
+ ✅ **10 Hands-on Codelabs** - Practical implementation experience
+ ✅ **5 NotebookLM Podcast Episodes** - Conversational learning format
+ ✅ **5 Live Livestream Sessions** - Direct engagement with Google experts
 
 ### 🔬 Technical Skills Gained
-- **AI Agent Architecture** - Core components and design patterns
-- **Multi-Agent Systems** - Coordination and orchestration
-- **Production Deployment** - Vertex AI and cloud scaling
-- **Context Engineering** - Memory and session management
-- **Agent Evaluation** - Quality assurance and observability
-- **Tool Development** - Custom tools and MCP integration
+ **AI Agent Architecture** - Core components and design patterns
+ **Multi-Agent Systems** - Coordination and orchestration
+ **Production Deployment** - Vertex AI and cloud scaling
+ **Context Engineering** - Memory and session management
+ **Agent Evaluation** - Quality assurance and observability
+ **Tool Development** - Custom tools and MCP integration
 
 </div>
 
@@ -398,6 +398,6 @@ Course materials © Google LLC. Personal implementations and notes are available
 
 **Built with 🤖 by [AmariEyaa](https://github.com/AmariEyaa) | Powered by Google Gemini**
 
-*Last Updated: November 22, 2025*
+
 
 </div>
